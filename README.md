@@ -17,7 +17,7 @@
 ## 🛠️ 安装方法
 
 1. 安装浏览器扩展管理器（如 [Tampermonkey](https://www.tampermonkey.net/)）
-2. 下载并复制 [gemini_chat_export.user.js](https://raw.githubusercontent.com/Sxuan-Coder/gemini_chat_export/main/gemini_chat_export.user.js) 脚本内容
+2. 下载并复制 [gemini_chat_export.user.js](https://raw.githubusercontent.com/Transwarpcom/gemini_chat_export/main/gemini_chat_export.user.js) 脚本内容
 3. 在 Tampermonkey 中创建新脚本并粘贴代码
 4. 保存并启用脚本
 
@@ -68,7 +68,7 @@ const SCROLL_INCREMENT_FACTOR = 0.85; // 滚动速度调整因子
 
 本项目基于 Apache 2.0 许可证开源。
 
-开源地址：[https://github.com/Sxuan-Coder/gemini_chat_export](https://github.com/Sxuan-Coder/gemini_chat_export)
+开源地址：[https://github.com/Transwarpcom/gemini_chat_export](https://github.com/Transwarpcom/gemini_chat_export)
 
 ---
 
